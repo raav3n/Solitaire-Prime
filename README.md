@@ -1,7 +1,7 @@
 # Solitaire-Prime
 Solitaire Prime java console game for cecs274
 
-###Options
+### Options
 
 ```
 1. Create Deck
